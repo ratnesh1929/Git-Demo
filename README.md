@@ -1,2 +1,2 @@
 # Git-Demo
-only for GIt practice
+only for GIt practice.
